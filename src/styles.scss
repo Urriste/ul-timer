@@ -6,8 +6,14 @@
     font-family: sans-serif;
 }
 
-
+//Color Variables
 $black: #252A34;
 $white: #EAEAEA;
 $light-blue: #08D9D6;
 $light-red:#FF2E63;
+
+
+@font-face {
+    font-family: "clock";
+    src: url(assets/fonts/clock.ttf) format("opentype");
+  }
